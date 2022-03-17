@@ -1,0 +1,140 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/Campfire/RH/corp_007597_01_Ansible Coloring Book/Mechs/Document fonts/AdobeFnt22.lst
+FileLength:3514
+FileModTime:623362457
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RedHatDisplay-Bold
+FamilyName:Red Hat Display
+StyleName:Bold
+MenuName:Red Hat Display Bold
+StyleBits:0
+WeightClass:610
+WidthClass:5
+AngleClass:0
+FullName:Red Hat Display Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/Campfire/RH/corp_007597_01_Ansible Coloring Book/Mechs/Document fonts/RedHatDisplay-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29392
+FileModTime:613318634
+NameArray:0,Mac,4,Red Hat Display Bold
+NameArray:0,Win,1,Red Hat Display Bold
+NameArray:0,Win,16,Red Hat Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RedHatDisplay-Medium
+FamilyName:Red Hat Display
+StyleName:Medium
+MenuName:Red Hat Display Medium
+StyleBits:0
+WeightClass:477
+WidthClass:5
+AngleClass:0
+FullName:Red Hat Display Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/Campfire/RH/corp_007597_01_Ansible Coloring Book/Mechs/Document fonts/RedHatDisplay-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29252
+FileModTime:613318635
+NameArray:0,Mac,4,Red Hat Display Medium
+NameArray:0,Win,1,Red Hat Display Medium
+NameArray:0,Win,16,Red Hat Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RedHatText-Medium
+FamilyName:Red Hat Text
+StyleName:Medium
+MenuName:Red Hat Text Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Red Hat Text Medium
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/Campfire/RH/corp_007597_01_Ansible Coloring Book/Mechs/Document fonts/RedHatText-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:58308
+FileModTime:613318642
+NameArray:0,Mac,4,Red Hat Text Medium
+NameArray:0,Win,1,Red Hat Text Medium
+NameArray:0,Win,16,Red Hat Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:RedHatText-Regular
+FamilyName:Red Hat Text
+StyleName:Regular
+MenuName:Red Hat Text Regular
+StyleBits:0
+WeightClass:404
+WidthClass:5
+AngleClass:0
+FullName:Red Hat Text Regular
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/Campfire/RH/corp_007597_01_Ansible Coloring Book/Mechs/Document fonts/RedHatText-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29172
+FileModTime:613318635
+NameArray:0,Mac,4,Red Hat Text Regular
+NameArray:0,Win,1,Red Hat Text Regular
+NameArray:0,Win,16,Red Hat Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:OverpassMono-Bold
+FamilyName:Overpass Mono
+StyleName:Bold
+MenuName:Overpass Mono
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Overpass Mono Bold
+WritingScript:Roman
+OutlineFileName:/Volumes/GoogleDrive/Shared drives/Campfire/RH/corp_007597_01_Ansible Coloring Book/Mechs/Document fonts/overpass-mono-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95240
+FileModTime:621357069
+NameArray:0,Mac,4,Overpass Mono Bold
+NameArray:0,Win,1,Overpass Mono
+%EndFont
+
